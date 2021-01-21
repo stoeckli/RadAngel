@@ -1,4 +1,4 @@
-# RadAngel
+# RadAngel Display
 M5Stack core code to display gamma spectroscopy data from a [Kromek](https://www.kromek.com/) [RadAngel](https://www.kromek.com/news/radangel-czt-based-gamma-ray-detector-now-in-stock/) detector.
 
 ## Idea
