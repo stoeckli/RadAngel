@@ -302,6 +302,8 @@ void loop()
 
   if ((digitalRead(ButtonC) == 0) && (DisplayMode != DispInfo)){
       // display logo
+      M5.Lcd.begin();
+      M5.lcd.setBrightness(100);
       DisplayMode = DispInfo;
       lcd_logo();
   }
